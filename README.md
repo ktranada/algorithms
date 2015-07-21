@@ -1,5 +1,5 @@
 <h1>Algorithms</h1>
----
+
 
 <h2>Search Basics</h2>
 
